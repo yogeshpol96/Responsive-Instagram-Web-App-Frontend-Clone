@@ -7,7 +7,7 @@ This project showcases my proficiency in front-end development and responsive de
 
 ## Live Demo
 
-You can view the live demo of the project [here](https://yogeshpol20.github.io/Responsive-Instagram-Web-App-Frontend-Clone/).
+You can view the live demo of the project [here](https://yogeshpol96.github.io/Responsive-Instagram-Web-App-Frontend-Clone/).
 
 **Login Credentials:**
 - **Username:** `yogesh_pol`
